@@ -1,0 +1,17 @@
+{
+  "name": "01-node-tutorial",
+  "version": "1.0.0",
+  "description": "My First NodeJs Tutorial",
+  "main": "app.js",
+  "scripts": {
+    "start" : "node app.js"
+  },
+  "author": "Joseph",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
